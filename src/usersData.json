@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "user": "Elon Reeve Musk",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://cdn.pixabay.com/photo/2016/04/01/10/04/amusing-1299761_960_720.png"
+  },
+  {
+    "id": 2,
+    "user": "Bill Gates",
+    "tweets": 2500,
+    "followers": 80000,
+    "avatar": "https://cdn.pixabay.com/photo/2016/12/13/16/17/dancer-1904467_960_720.png"
+  },
+  {
+    "id": 3,
+    "user": "Mark Zuckerberg",
+    "tweets": 1500,
+    "followers": 50000,
+    "avatar": "https://cdn.pixabay.com/photo/2016/04/01/10/04/amusing-1299756_960_720.png"
+  },
+  {
+    "id": 4,
+    "user": "Jeff Bezos",
+    "tweets": 1800,
+    "followers": 75000,
+    "avatar": "https://cdn.pixabay.com/photo/2014/03/25/15/23/man-296678_960_720.png"
+  },
+  {
+    "id": 5,
+    "user": "Larry Page",
+    "tweets": 2000,
+    "followers": 65000,
+    "avatar": "https://cdn.pixabay.com/photo/2016/04/01/10/04/amusing-1299758_960_720.png"
+  },
+  {
+    "id": 6,
+    "user": "Sundar Pichai",
+    "tweets": 1200,
+    "followers": 40000,
+    "avatar": "https://cdn.pixabay.com/photo/2016/04/01/10/04/amusing-1299754_960_720.png"
+  }
+]
